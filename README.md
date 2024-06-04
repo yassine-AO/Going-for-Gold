@@ -40,7 +40,7 @@ To install and run the application locally, follow these steps:
 1. **Clone the repository:** 🔍
     
     ```bash
-    git clone <https://github.com/your-username/going-for-gold.git>
+    git clone <https://github.com/yassine-AO/Going-for-Gold.git>
     cd going-for-gold
     
     ```
